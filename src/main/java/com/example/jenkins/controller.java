@@ -10,7 +10,7 @@ public class controller {
 
     @GetMapping
     public String getUser(){
-        return "Gomaa";
+        return "Gomaa get";
     }
 
     @PostMapping
