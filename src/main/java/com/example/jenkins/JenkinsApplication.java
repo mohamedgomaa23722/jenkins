@@ -9,6 +9,8 @@ public class JenkinsApplication {
 	public static void main(String[] args) {
 		//SpringApplication.run(JenkinsApplication.class, args);
 		System.out.println("-------------TEST Jenkins-----------------");
+				System.out.println("-------------TEST Jenkins CHANGE-----------------");
+
 	}
 
 }
