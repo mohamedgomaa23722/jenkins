@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController("/users")
-public class controller {
+public class Controller {
 
     @GetMapping
     public String getUser(){
-        return "Gomaa get tet";
+        return "Gomaa get get";
     }
 
     @PostMapping
